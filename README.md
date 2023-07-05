@@ -7,4 +7,4 @@
 
 - 🛠️ Core Competencies in software engineering, scientific computing, skunkworks & experimental design
 
-- 📫 jgl@gatech.edu
+- 📫 johnathanglyon@gmail.com
